@@ -1,0 +1,8 @@
+@article{REPO259,
+    author = "Chen, Zhiqin and Tagliasacchi, Andrea and Funkhouser, Thomas and Zhang, Hao",
+    journal = "Nature Communications",
+    number = "1",
+    title = "{Single-cell biological network inference using a heterogeneous graph transformer}",
+    volume = "14",
+    year = "2023"
+}
